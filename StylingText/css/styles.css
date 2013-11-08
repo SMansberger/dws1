@@ -2,6 +2,8 @@
 /* CSS Document */
 
 body {background-color: rgb(56,181,255);}
-h1 {color: #0E0D40; opacity: 0.5;}
-h2 {color: blue;}
-ul {background-color: #1c1b80; color: hsl(95,50%,90%);}
+h1 {color: #0E0D40; opacity: 0.5; text-shadow: black 0.1em 0.1em 0.2em; text-transform:lowercase;}
+h2 {color: blue; text-shadow: black 0.1em 0.1em 0.2em; text-transform:lowercase;}
+h3 {color: blue; text-shadow: black 0.1em 0.1em 0.2em; text-transform:lowercase;}
+ul {background-color: #1c1b80; color: hsl(95,50%,90%); letter-spacing:2px;}
+p {font: italic 12pt/1 Arial, Helvetica, sans-serif; text-indent: 30px;}
