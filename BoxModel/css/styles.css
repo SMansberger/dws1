@@ -1,0 +1,15 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+body {background-color: rgb(56,181,255); border: 2px solid black; text-align: center;}
+h1 {color: #0E0D40; opacity: 0.5; text-shadow: black 0.1em 0.1em 0.2em; text-transform:lowercase; font-family: 'Roboto', sans-serif;}
+h2 {color: blue; text-shadow: black 0.1em 0.1em 0.2em; text-transform:lowercase; font-family: 'Roboto', sans-serif;}
+h3 {color: blue; text-shadow: black 0.1em 0.1em 0.2em; text-transform:lowercase; font-family: 'Roboto', sans-serif;}
+ul {background-color: #1C1B80; color: hsl(95,50%,90%); letter-spacing:2px; list-style-type:square;}
+p {font: italic 12pt/1 Helvetica; text-indent: 30px; line-height: normal;}
+
+a:link {color:#000000;}    
+a:visited {color:#1C1B80;}  
+a:hover {color:#FFFFFF;} 
+a:active {color:#0000FF;}

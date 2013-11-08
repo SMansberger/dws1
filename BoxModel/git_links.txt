@@ -1,0 +1,5 @@
+https://github.com/SMansberger/dws1/tree/gh-pages/StylingText
+
+http://smansberger.github.io/dws1/StylingText/styling-texthtml
+http://smansberger.github.io/dws1/StylingText/css/styles.css
+
