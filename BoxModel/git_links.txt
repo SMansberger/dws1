@@ -1,5 +1,5 @@
-https://github.com/SMansberger/dws1/tree/gh-pages/StylingText
+https://github.com/SMansberger/dws1/tree/gh-pages/BoxModel
 
-http://smansberger.github.io/dws1/StylingText/styling-texthtml
-http://smansberger.github.io/dws1/StylingText/css/styles.css
+http://smansberger.github.io/dws1/BoxModel/box-model.html
+http://smansberger.github.io/dws1/BoxModel/css/styles.css
 

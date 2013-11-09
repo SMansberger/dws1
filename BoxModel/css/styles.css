@@ -49,7 +49,7 @@ ul {
 }
 	
 p {
-	font: italic 12pt/1 Helvetica; 
+	font: italic 12pt/1 Helvetica, Arial, sans-serif; 
 	text-indent: 30px; 
 	line-height: normal; 
 	padding: 1em;
