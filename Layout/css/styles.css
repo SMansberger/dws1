@@ -3,23 +3,32 @@
 
 /*#myLayout {width: 40em;}*/
 
-body {
+#columns {
+        width: 600px;
+}
+ #columns  .column1 {
+        float: right;
+    }
+
+    .column2 {
+        float: right;
+    }
+}
+footer {
+	clear: both;
+}
+	
+
+/*body {
 	background-color: rgb(56,181,255);
 	margin: 1%; 
 	width: 90%;
-	margin-left: 1%;
+	margin-left: auto;
 	margin-right: auto;
 	border: 0.1em solid black; 
 	padding: 0.5em;
 	border-radius: 15px;
 	box-shadow: 10px 10px 5px rgba(0,0,0,0.5);
-	float: left;
-}
-
-column1 {
-	width: 31.3%;
-	float: right;
-	margin: 1%;
 }
 
 h1 {
@@ -63,11 +72,8 @@ p {
 	text-indent: 30px; 
 	line-height: normal; 
 	padding: 1em;
-}
-footer {
-	float: clear;
-	
-}
+}*/
+
 
 a:link {color:#000000;}    
 a:visited {color:#1C1B80;}  
