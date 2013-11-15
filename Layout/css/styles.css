@@ -4,26 +4,26 @@
 /*#myLayout {width: 40em;}*/
 
 #columns {
-        width: 600px;
+        width: 90%;
 }
- #columns  .column1 {
-        float: right;
+	
+   .column1, .column2 {
+	   width: 46%;
+        float: left;
+		padding: 1%;
+		margin: 1%;
     }
-
-    .column2 {
-        float: right;
-    }
-}
-footer {
+	
+#bottom {
 	clear: both;
 }
 	
 
-/*body {
+body {
 	background-color: rgb(56,181,255);
 	margin: 1%; 
 	width: 90%;
-	margin-left: auto;
+	margin-left: 1%;
 	margin-right: auto;
 	border: 0.1em solid black; 
 	padding: 0.5em;
@@ -47,7 +47,6 @@ h2 {
 	text-transform:lowercase; 
 	font-family: 'Roboto', sans-serif;
 	font-size: 1.5em;
-	text-align: center;
 }
 	
 h3 {
@@ -65,6 +64,7 @@ ul {
 	letter-spacing:2px; 
 	list-style-type:square;
 	border-radius: 5px;
+	clear: both;
 }
 	
 p {
@@ -72,7 +72,10 @@ p {
 	text-indent: 30px; 
 	line-height: normal; 
 	padding: 1em;
-}*/
+}
+footer {
+	clear: both;
+}
 
 
 a:link {color:#000000;}    
