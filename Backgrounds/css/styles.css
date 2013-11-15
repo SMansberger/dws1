@@ -4,7 +4,7 @@
 /*#myLayout {width: 40em;}*/
 
 #columns {
-        width: 90%;
+        width: 100%;
 }
 	
    .column1, .column2 {
@@ -12,18 +12,28 @@
         float: left;
 		padding: 1%;
 		margin: 1%;
+		background-image: -moz-linear-gradient(top left, #FFFFFF 0%, #00A3EF 100%);
+		background-image: -webkit-linear-gradient(top left, #FFFFFF 0%, #00A3EF 100%);
     }
 	
 #bottom {
-	clear: both;
+		width: 98%;
+		background-image: -moz-linear-gradient(bottom, #FFFFFF 0%, #00A3EF 100%);
+		background-image: -webkit-linear-gradient(bottom, #FFFFFF 0%, #00A3EF 100%);
+		margin-left: auto;
+		margin-right: auto;
+		clear: both;
 }
 	
 
 body {
-	background-color: rgb(56,181,255);
+	/*background-color: rgb(56,181,255);*/
+	background-image: url('../images/lunar-midnight.gif');
+	background-repeat: repeat;
+	background-position: center;
 	margin: 1%; 
 	width: 97%;
-	margin-left: 1%;
+	margin-left: auto;
 	margin-right: auto;
 	border: 0.1em solid black; 
 	padding: 0.5em;
@@ -33,7 +43,8 @@ body {
 
 h1 {
 	color: #0E0D40; 
-	opacity: 0.5; 
+	background-color: #00A3EF;
+	opacity: 0.7; 
 	text-shadow: black 0.1em 0.1em 0.2em; 
 	text-transform:lowercase; 
 	font-family: 'Roboto', sans-serif;
@@ -59,11 +70,11 @@ h3 {
 }
 	
 ul {
-	background-color: #1C1B80; 
-	color: hsl(95,50%,90%); 
+	width: 97%;
 	letter-spacing:2px; 
 	list-style-type:square;
 	border-radius: 5px;
+	padding-bottom: 1%;
 	clear: both;
 }
 	
@@ -74,6 +85,10 @@ p {
 	padding: 1em;
 }
 footer {
+	background: #ffffff;
+	width: 98%;
+	margin-left: auto;
+	margin-right: auto;
 	clear: both;
 }
 
