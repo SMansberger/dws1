@@ -1,6 +1,6 @@
-https://github.com/SMansberger/dws1/tree/gh-pages/Backgrounds
+https://github.com/SMansberger/dws1/tree/gh-pages/HTML5LayoutTables
 
-http://smansberger.github.io/dws1/Backgrounds/backgrounds.html
-http://smansberger.github.io/dws1/Backgrounds/css/styles.css
-http://smansberger.github.io/dws1/Backgrounds/images/lunar-midnight.gif
-http://smansberger.github.io/dws1/Backgrounds/images/spartan.png
+http://smansberger.github.io/dws1/HTML5LayoutTables/html5-layout-tables.html
+http://smansberger.github.io/dws1/HTML5LayoutTables/css/styles.css
+http://smansberger.github.io/dws1/HTML5LayoutTables/images/lunar-midnight.gif
+http://smansberger.github.io/dws1/HTML5LayoutTables/images/spartan.png
