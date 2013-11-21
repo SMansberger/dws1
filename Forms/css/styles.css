@@ -114,15 +114,6 @@ ul {
 tr:hover {
 	background-color: #0FF;
 }
-	
-footer {
-	border-radius: 5px;
-	background: #ffffff;
-	width: 98%;
-	margin-left: auto;
-	margin-right: auto;
-	clear: both;
-}
 
 form {
 	width: 50%;
@@ -148,6 +139,16 @@ textarea:hover, input:hover{
 	background: #CCC;
 }
 
+footer {
+	border-radius: 5px;
+	background: #ffffff;
+	width: 98%;
+	margin-left: auto;
+	margin-right: auto;
+	clear: both;
+	background-image: -moz-linear-gradient(top left, #FFFFFF 0%, #00A3EF 100%);
+	background-image: -webkit-linear-gradient(top left, #FFFFFF 0%, #00A3EF 100%);
+}
 
 a:link {color:#000000;}    
 a:visited {color:#1C1B80;}  
