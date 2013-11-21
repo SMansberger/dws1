@@ -1,0 +1,6 @@
+https://github.com/SMansberger/dws1/tree/gh-pages/HTML5LayoutTables
+
+http://smansberger.github.io/dws1/Forms/forms.html
+http://smansberger.github.io/dws1/Forms/css/styles.css
+http://smansberger.github.io/dws1/Forms/images/lunar-midnight.gif
+http://smansberger.github.io/dws1/Forms/images/spartan.png
