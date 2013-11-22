@@ -3,6 +3,10 @@
 
 /*#myLayout {width: 40em;}*/
 
+head {
+	background-color: red;
+}
+
 body {
 	background-image: url("../images/rinzler.gif");
 	background-repeat: repeat;
@@ -15,15 +19,35 @@ body {
 	box-shadow: 10px 10px 5px rgba(0,0,0,0.5);
 }
 
-p {
-	background-color: #ffffff;
+#main {
+	width: 95%;
+	height: 95%;
+	margin: 1% 1% 1% 2%;
+	padding: 0.5% 0.5% 0.5% 0.5%;
+	border-radius: 1em;
+	background-color: red;
 }
+
+article {
+	width: 90%;
+	margin:auto;
+	padding: 1em 1em 1em 1em;
+	background-color: #ffffff;
+	border: 0.1em solid black;
+}
+
+p {
+	text-indent: 30px;
+}
+
 #rook {
 	float:left;
 }
 
 #modernbattlechess {
-	float:right;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 sup {
